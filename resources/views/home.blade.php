@@ -1,6 +1,5 @@
 @extends('layouts.app')
 @include('partials.header')
-@include('partials.jumbotron')
 @section('content')
-    <h1 class="text-center">Ciao sono la homepage</h1>
+    <h1 class="text-center">Clicca il link: COMICS</h1>
 @endsection

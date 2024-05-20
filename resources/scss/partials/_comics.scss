@@ -1,0 +1,19 @@
+.comics-wrapper{
+    padding: 60px 0;
+    background-color: #1C1C1C;
+    .comic{
+        display: flex;
+        flex-direction: column;
+        width: calc(100%/6 - 20px);
+        padding: 10px;
+        margin: 10px;
+
+        img{
+            width: 100%;
+            aspect-ratio: 1/1;
+        }
+        p{
+            color: white;
+        }
+    }
+}
