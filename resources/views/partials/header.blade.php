@@ -6,6 +6,9 @@
         <nav class="d-flex align-items-center">
             <ul class="d-flex gap-4">
                 <li>
+                    <a href="{{ route('home') }}">HOME</a>
+                </li>
+                <li>
                     <a href="#">CHARACTERS</a>
                 </li>
                 <li>
@@ -25,9 +28,6 @@
                 </li>
                 <li>
                     <a href="#">VIDEOS</a>
-                </li>
-                <li>
-                    <a href="#">FANS</a>
                 </li>
                 <li>
                     <a href="#">NEWS</a>

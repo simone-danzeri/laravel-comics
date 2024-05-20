@@ -1,4 +1,6 @@
+@use './partials/home';
 @use './partials/header';
 @use './partials/jumbotron';
 @use './partials/comics';
+@use './partials/footer';
 @import '~bootstrap/scss/bootstrap';

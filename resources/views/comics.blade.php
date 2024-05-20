@@ -9,7 +9,7 @@
                 {{-- Singolo fumetto --}}
                 <div class="comic">
                     <img src="{{ $eachComic['thumb'] }}" alt="">
-                    <p class="text-center">{{ $eachComic['title'] }}</p>
+                    <p class="text-center pt-2 fw-lighter">{{ $eachComic['title'] }}</p>
                 </div>
             @endforeach
         </div>

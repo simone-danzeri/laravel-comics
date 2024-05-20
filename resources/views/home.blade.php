@@ -1,5 +1,11 @@
 @extends('layouts.app')
 @include('partials.header')
 @section('content')
-    <h1 class="text-center">Clicca il link: COMICS</h1>
+<div class="ms-home">
+    <div class="text-center">
+        <span>
+            Looking for something to read? Try our new <a href="{{ route('comics') }}">COMICS</a> section!
+        </span>
+    </div>
+</div>
 @endsection

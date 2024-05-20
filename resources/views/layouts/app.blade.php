@@ -15,11 +15,10 @@
 
 </head>
 <body>
-
     <main>
         @yield('content')
     </main>
-
+    @include('partials.footer')
 </body>
 
 </html>
