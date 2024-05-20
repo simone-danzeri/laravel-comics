@@ -1,5 +1,4 @@
 @extends('layouts.app')
-
 @section('content')
 <div class="ms-home">
     <div class="text-center">

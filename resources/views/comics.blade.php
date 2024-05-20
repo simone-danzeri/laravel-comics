@@ -1,5 +1,4 @@
 @extends('layouts.app')
-@include('partials.jumbotron')
 @section('content')
 <div class="comics-wrapper">
     <div class="container">

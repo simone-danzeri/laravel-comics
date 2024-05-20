@@ -2,11 +2,11 @@
     .jumbo{
         height: 500px;
         background-image: url('../img/jumbotron.jpg');
-        // position: relative;
+        position: relative;
         .current-series{
-            // position: absolute;
-            // top: 95%;
-            // left: 15%;
+            position: absolute;
+            top: 95%;
+            left: 15%;
             padding: 14px 18px;
             background-color: #0182F9;
             color: white;
