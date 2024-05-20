@@ -1,5 +1,5 @@
 @extends('layouts.app')
-@include('partials.header')
+
 @section('content')
 <div class="ms-home">
     <div class="text-center">
